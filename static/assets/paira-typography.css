@@ -1,0 +1,61 @@
+/**
+ * Copyright © by ThemeTidy.com
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * All rights reserved
+ * This file or theme or template or image or any code or any design not be directly usable, you can only able to use this file or theme or template or image or any code or any design, if you any this item from here https://www.themetidy.com/
+ * Check here https://www.themetidy.com/ for details about Copyright and Terms of condition to use this file or theme or template or image or any code or any design
+ * Author -> ThemeTidy.com
+ * Email -> admin@themetidy.com
+ */
+/* ===========================================================
+    Color And Font Settings
+============================================================ */
+body {
+    color: #000;
+    background-color: #fff;
+    font-family: Roboto;
+    font-size: 14px;
+}
+h1,h2,h3,h4,h5,h6 {
+    color: #000;
+    font-family: Lato;
+}
+.mega-menu .navbar-nav>li>a,a,.footer-middle .instagram-link:hover,.pagination>li>a, .pagination>li>span,.filter-product legend,.input-group-addon,.select_options {
+    color: #000;
+}
+a:focus, a:hover,.modal-content button.close:hover,.welcome-newsletter form button:hover ,.select_options:hover,.single-product-tabs li.active a,.faqs-content h2:hover{
+    color: #8c8c8c;
+}
+.btn-default, .btn-default.disabled {
+    color: #fff;
+    background-color: #000;
+    border-color: #000;
+}
+.btn-default.disabled {
+    opacity: .5;
+}
+.btn-default.active, .btn-default.focus, .btn-default:active, .btn-default:focus, .btn-default:hover, .open>.dropdown-toggle.btn-default {
+    color: #000;
+    background-color: #f6f7f9;
+    border-color: #f6f7f9;
+}
+.btn-primary, .btn-primary.disabled {
+color: #f6f7f9;
+background-color: #000;
+border-color: #000;
+}
+.btn-primary.disabled {
+    opacity: .5;
+}
+.btn-primary.active, .btn-primary.focus, .btn-primary:active, .btn-primary:focus, .btn-primary:hover, .open>.dropdown-toggle.btn-primary {
+color: #fff;
+background-color: #333;
+border-color: #333;
+}
+header {
+    color: #000;
+}
+footer {
+    background: #fff;
+    color: #000;
+}
